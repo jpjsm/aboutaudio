@@ -1,2 +1,2 @@
-# aboutaudio
-This is a learning placa deo NAudio package
+# About Audio
+This is a learning place about the NAudio package
